@@ -1,0 +1,1283 @@
+Nombre del taller: RIF: Direccion: Telefono: 
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR VEHICULO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Placa (6-7 caracteres alfanumericos): Marca: Modelo: Anio (1950-2027): Kilometraje (0 o mayor): Nombre del propietario: Cedula del propietario (digitos, V- o E- opcional): Telefono del propietario (7-15 digitos): Guardar vehiculo (S/N): [OK] Vehiculo registrado.
+
+Presione Enter para volver al menu...
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+[!] No hay mecanicos registrados para mostrar.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- BUSCAR MECANICO ---
+1. Buscar por ID
+2. Buscar por cedula
+Seleccione una opcion: [!] Valor invalido; intentelo de nuevo.
+Seleccione una opcion: [!] Opcion Invalida.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+[!] No hay mecanicos registrados para mostrar.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- REPUESTOS ---
+1. Registrar
+2. Buscar
+3. Entrada de mercancia
+4. Cambiar precio
+5. Eliminar
+6. Listar
+0. Volver
+Opcion: 
+--- BUSCAR REPUESTO ---
+1. Buscar por ID
+2. Buscar por Codigo
+3. Buscar por Nombre (parcial)
+Seleccione una opcion: [!] Opcion Invalida.
+
+Presione Enter para volver al menu...
+--- REPUESTOS ---
+1. Registrar
+2. Buscar
+3. Entrada de mercancia
+4. Cambiar precio
+5. Eliminar
+6. Listar
+0. Volver
+Opcion: 
+[!] No hay repuestos registrados para mostrar.
+
+Presione Enter para volver al menu...
+--- REPUESTOS ---
+1. Registrar
+2. Buscar
+3. Entrada de mercancia
+4. Cambiar precio
+5. Eliminar
+6. Listar
+0. Volver
+Opcion: 
+--- BUSCAR REPUESTO ---
+1. Buscar por ID
+2. Buscar por Codigo
+3. Buscar por Nombre (parcial)
+Seleccione una opcion: Ingrese ID del repuesto: [!] Valor invalido; intentelo de nuevo.
+Ingrese ID del repuesto: [!] Repuesto no encontrado.
+
+Presione Enter para volver al menu...
+--- REPUESTOS ---
+1. Registrar
+2. Buscar
+3. Entrada de mercancia
+4. Cambiar precio
+5. Eliminar
+6. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: Salir del sistema (S/N): [!] Responda S o N.
+Salir del sistema (S/N): [!] Responda S o N.
+Salir del sistema (S/N): [!] Responda S o N.
+Salir del sistema (S/N): [!] Responda S o N.
+Salir del sistema (S/N): [!] Responda S o N.
+Salir del sistema (S/N): 
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR NUEVO MECANICO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Nombre completo: Cedula: Especialidad (MOTOR, FRENOS, ELECTRICIDAD, SUSPENSION, GENERAL): Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Cedula duplicada o datos invalidos.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR NUEVO MECANICO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Nombre completo: Cedula: Especialidad (MOTOR, FRENOS, ELECTRICIDAD, SUSPENSION, GENERAL): Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Cedula duplicada o datos invalidos.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR NUEVO MECANICO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Nombre completo: Cedula: Especialidad (MOTOR, FRENOS, ELECTRICIDAD, SUSPENSION, GENERAL): Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Cedula duplicada o datos invalidos.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR NUEVO MECANICO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Nombre completo: Cedula: Especialidad (MOTOR, FRENOS, ELECTRICIDAD, SUSPENSION, GENERAL): Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Cedula duplicada o datos invalidos.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR NUEVO MECANICO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Nombre completo: Cedula: Especialidad (MOTOR, FRENOS, ELECTRICIDAD, SUSPENSION, GENERAL): Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Cedula duplicada o datos invalidos.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- BUSCAR MECANICO ---
+1. Buscar por ID
+2. Buscar por cedula
+Seleccione una opcion: Ingrese ID del mecanico: [!] Mecanico no encontrado.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- BUSCAR MECANICO ---
+1. Buscar por ID
+2. Buscar por cedula
+Seleccione una opcion: [!] Opcion Invalida.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- BUSCAR MECANICO ---
+1. Buscar por ID
+2. Buscar por cedula
+Seleccione una opcion: [!] Valor invalido; intentelo de nuevo.
+Seleccione una opcion: [!] Opcion Invalida.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- REPUESTOS ---
+1. Registrar
+2. Buscar
+3. Entrada de mercancia
+4. Cambiar precio
+5. Eliminar
+6. Listar
+0. Volver
+Opcion: 
+[!] No hay repuestos registrados para mostrar.
+
+Presione Enter para volver al menu...
+--- REPUESTOS ---
+1. Registrar
+2. Buscar
+3. Entrada de mercancia
+4. Cambiar precio
+5. Eliminar
+6. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR NUEVO REPUESTO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Codigo: Nombre: Marca: 
+Presione Enter para volver al menu...
+--- REPUESTOS ---
+1. Registrar
+2. Buscar
+3. Entrada de mercancia
+4. Cambiar precio
+5. Eliminar
+6. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR NUEVO REPUESTO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Codigo: Nombre: Marca: Precio unitario (> 0): Stock inicial (0 o mayor): [!] Ingrese un numero entero entre 0 y 2147483647.
+Stock inicial (0 o mayor): Stock minimo (0 o mayor): Guardar repuesto (S/N): [!] Responda S o N.
+Guardar repuesto (S/N): [!] Responda S o N.
+Guardar repuesto (S/N): [!] Responda S o N.
+Guardar repuesto (S/N): [!] Responda S o N.
+Guardar repuesto (S/N): [!] Responda S o N.
+Guardar repuesto (S/N): [!] Responda S o N.
+Guardar repuesto (S/N): 
+Presione Enter para volver al menu...
+--- REPUESTOS ---
+1. Registrar
+2. Buscar
+3. Entrada de mercancia
+4. Cambiar precio
+5. Eliminar
+6. Listar
+0. Volver
+Opcion: 
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: 
+--- ACTUALIZAR VEHICULO ---
+Ingrese el ID del vehiculo a actualizar: Escriba CANCELAR en cualquier campo para volver al menu.
+Nueva placa: [!] El texto excede el limite permitido.
+Nueva placa: Nueva marca: Nuevo modelo: Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): [!] Ingrese un numero entero entre 1950 y 2027.
+Anio (1950-2027): Nuevo kilometraje (0 o mayor): Nuevo propietario: Nueva cedula: Nuevo telefono: Guardar cambios del vehiculo (S/N): [!] Error al actualizar.
+
+Presione Enter para volver al menu...
+--- VEHICULOS ---
+1. Registrar
+2. Buscar
+3. Actualizar
+4. Eliminar
+5. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+=== LISTA GENERAL DE REGISTROS ===
+Vehiculos registrados: 1
+
+--- DETALLE DEL VEHICULO ---
+ID: 1
+Placa: AB123CD
+Marca: Toyota
+Modelo: 34
+Anio: 2022
+Kilometraje: 350
+Fecha de registro: 2026-10-21
+Propietario: Maria Gonzalez
+Cedula del propietario: 24556788
+Telefono del propietario: 0424897765
+
+Mecanicos registrados: 0
+  No hay mecanicos.
+
+Repuestos registrados: 0
+  No hay repuestos.
+
+Ordenes de servicio registradas: 0
+  No hay ordenes.
+
+Presione Enter para volver al menu...
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- ORDENES DE SERVICIO ---
+1. Abrir orden
+2. Agregar repuesto
+3. Quitar repuesto
+4. Cerrar orden
+5. Anular orden
+6. Ver detalle
+7. Listar ordenes
+0. Volver
+Opcion: 
+--- ABRIR NUEVA ORDEN DE SERVICIO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Ingrese ID del Vehiculo: [!] Error: El vehiculo no existe.
+
+Presione Enter para volver al menu...
+--- ORDENES DE SERVICIO ---
+1. Abrir orden
+2. Agregar repuesto
+3. Quitar repuesto
+4. Cerrar orden
+5. Anular orden
+6. Ver detalle
+7. Listar ordenes
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- BUSCAR MECANICO ---
+1. Buscar por ID
+2. Buscar por cedula
+Seleccione una opcion: Ingrese ID del mecanico: [!] Valor invalido; intentelo de nuevo.
+Ingrese ID del mecanico: [!] Mecanico no encontrado.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+[!] No hay mecanicos registrados para mostrar.
+
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: 
+--- REGISTRAR NUEVO MECANICO ---
+Escriba CANCELAR en cualquier campo para volver al menu.
+Nombre completo: Cedula: Especialidad (MOTOR, FRENOS, ELECTRICIDAD, SUSPENSION, GENERAL): Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): [!] Responda S o N.
+Guardar mecanico (S/N): 
+Presione Enter para volver al menu...
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Opcion invalida.
+
+--- MECANICOS ---
+1. Registrar
+2. Buscar
+3. Listar
+0. Volver
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Opcion invalida.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: [!] Ingrese un numero.
+
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
+=== LISTA GENERAL DE REGISTROS ===
+Vehiculos registrados: 1
+
+--- DETALLE DEL VEHICULO ---
+ID: 1
+Placa: AB123CD
+Marca: Toyota
+Modelo: 34
+Anio: 2022
+Kilometraje: 350
+Fecha de registro: 2026-10-21
+Propietario: Maria Gonzalez
+Cedula del propietario: 24556788
+Telefono del propietario: 0424897765
+
+Mecanicos registrados: 0
+  No hay mecanicos.
+
+Repuestos registrados: 0
+  No hay repuestos.
+
+Ordenes de servicio registradas: 0
+  No hay ordenes.
+
+Presione Enter para volver al menu...
+=== Taller de Mecanica ===
+1. Vehiculos
+2. Mecanicos
+3. Repuestos
+4. Ordenes de servicio
+5. Lista general de registros
+0. Salir
+Opcion: 
