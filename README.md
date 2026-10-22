@@ -291,19 +291,6 @@ Eso libera solo el arreglo de objetos `OrdenServicio`, pero no elimina cada arre
 Este proyecto demuestra la aplicación de:
 - Arreglos dinámicos
 - Punteros
-- estructuras
-- validaciones
-- búsquedas
-- redimensionamiento de memoria
-- gestión de relaciones entre entidades del dominio del problema
-
-Es una solución adecuada para entender el manejo de memoria en C++ y la relación entre estructuras que representan un sistema real de gestión empresarial.
-
-## Observaciones finales
-
-Este proyecto demuestra la aplicación de:
-- Arreglos dinámicos
-- Punteros
 - Estructuras generales de C++
 - Validaciones
 - Busquedas de informacion
