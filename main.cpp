@@ -1418,6 +1418,7 @@ void menuVerDetalleOrden(SistemaTaller* s) {
     mostrarDetalleOrden(s, o);
 }
 
+//SISTEMA DE LISTADO GENERAL
 void menuListarOrdenes(SistemaTaller* s) {
     limpiarTerminal();
     int opc = 0, cantidad = 0;
@@ -1647,6 +1648,7 @@ void menuOrdenes(SistemaTaller* s) {
     }
 }
 
+//SISTEMA MAIN
 int main() {
     Taller taller = {};
     cout << "Nombre del taller: ";
